@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/NotesApp/static/css/main.87412f36.css",
-    "main.js": "/NotesApp/static/js/main.c98dcbb8.js",
+    "main.css": "/NotesApp/static/css/main.17a824d3.css",
+    "main.js": "/NotesApp/static/js/main.ce74543f.js",
     "static/js/787.8873dc3e.chunk.js": "/NotesApp/static/js/787.8873dc3e.chunk.js",
     "static/media/notelgo.png": "/NotesApp/static/media/notelgo.3d40be0051252e05e76d.png",
-    "static/media/myprofile.jpeg": "/NotesApp/static/media/myprofile.526e5cf6305e59df53b9.jpeg",
     "index.html": "/NotesApp/index.html",
-    "main.87412f36.css.map": "/NotesApp/static/css/main.87412f36.css.map",
-    "main.c98dcbb8.js.map": "/NotesApp/static/js/main.c98dcbb8.js.map",
+    "main.17a824d3.css.map": "/NotesApp/static/css/main.17a824d3.css.map",
+    "main.ce74543f.js.map": "/NotesApp/static/js/main.ce74543f.js.map",
     "787.8873dc3e.chunk.js.map": "/NotesApp/static/js/787.8873dc3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87412f36.css",
-    "static/js/main.c98dcbb8.js"
+    "static/css/main.17a824d3.css",
+    "static/js/main.ce74543f.js"
   ]
 }
